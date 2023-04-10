@@ -7,11 +7,17 @@ Os cursos são divididos em módulos, cada um com uma lista de aulas e exercíci
 ## Lista de Projetos
 Aqui está a lista de todos os projetos contidos neste repositório:
 
-## Projeto 1: Smart Bank
+### Projeto 1: Smart Bank
 Este projeto foi desenvolvido durante o curso React: abstraindo seu CSS com Styled Components. O objetivo deste projeto era utilizar styled components em um projeto react, substituindo-o pelo CSS
 
 ## Como Executar os Projetos
-Para executar qualquer um dos projetos, siga as instruções contidas em cada projeto específico.
+- Abra o terminal da sua IDE e siga o passo a passo abaixo
+```
+cd nome_do_repositorio
+git clone url_do_projeto
+npm install
+npm start
+```
 
 ## Contato
 Feito com ❤️ por Marcelo Chaves 👋🏽 Entre em contato!
