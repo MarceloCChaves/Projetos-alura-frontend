@@ -18,6 +18,7 @@ export const Box = styled.div`
   box-shadow: 4px 4px 20px 0px rgba(0, 0, 0, 0.04);
   padding: 20px;
   width: 48%;
+  min-height: 475px;
 
   @media (max-width: 800px) {
     width: 95%;

@@ -3,6 +3,7 @@ import styled from "styled-components";
 import Titulo from "../Titulo";
 import Conta from "../Conta";
 import Extrato from "../Extrato";
+import Transferencias from "../Transferencias";
 
 const Container = styled.div`
   background-color: ${({theme}) => theme.body};
@@ -28,6 +29,9 @@ export default () => {
       <Conteudo>
         <Conta />
         <Extrato/>
+      </Conteudo>
+      <Conteudo>
+        <Transferencias/>
       </Conteudo>
     </Container>
   );
