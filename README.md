@@ -15,6 +15,12 @@ O objetivo deste projeto é utilizando-se da componentização, tornar uma aplic
 
 https://user-images.githubusercontent.com/62251064/236537219-01a099d9-f811-4e43-8d4f-dbcea0d44b37.mp4
 
+### Projeto 2: Carrinho de compras
+Este projeto foi desenvolvido durante o curso React: gerenciamento de estados globais com ContextAPI. 
+O objetivo deste projeto é criar e gerenciar estados globais com ContextAPI, a partir de um carrinho de compras
+
+🚧 Em desenvolvimento ...
+
 ## Desenvolvedor
 ---
 
