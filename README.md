@@ -17,7 +17,13 @@ https://user-images.githubusercontent.com/62251064/236537219-01a099d9-f811-4e43-
 
 ### Projeto 2: Carrinho de compras
 Este projeto foi desenvolvido durante o curso React: gerenciamento de estados globais com ContextAPI. 
-O objetivo deste projeto é criar e gerenciar estados globais com ContextAPI, a partir de um carrinho de compras
+O objetivo deste projeto é criar e gerenciar estados globais com ContextAPI, a partir de um carrinho de compras.
+
+🚧 Em desenvolvimento ...
+
+### Projeto 3: Alfood
+Este projeto foi desenvolvido durante o curso React: integrando seu projeto React com APIs. 
+O objetivo deste projeto é fazer um sistema que Crie, edite e delete restaurantes e exiba-os em uma pagina web.
 
 🚧 Em desenvolvimento ...
 
